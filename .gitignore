@@ -1,0 +1,6 @@
+# 本地配置与临时文件
+.env
+*.log
+__pycache__/
+*.pyc
+.DS_Store
